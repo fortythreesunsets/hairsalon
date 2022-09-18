@@ -1,0 +1,4 @@
+select * from appointments;
+select * from customers;
+select * from treatments;
+select * from employees;

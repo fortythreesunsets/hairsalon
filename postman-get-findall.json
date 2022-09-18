@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3,
+    "date": "2022-09-16T01:28:17.974721",
+    "duration": 60,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "treatment": null,
+    "employee": null
+  },
+  {
+    "id": 1,
+    "date": "2022-01-14T10:30:00",
+    "duration": 60,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "treatment": {
+      "id": 2,
+      "name": "Corte de pelo mujer",
+      "price": 300.0,
+      "estimatedDuration": 70
+    },
+    "employee": {
+      "id": 1,
+      "firstName": "Antonio",
+      "lastName": "Romano",
+      "birthDate": null,
+      "email": "antorom@mail.com",
+      "nss": "12345",
+      "rfc": "ROGA890327HK3"
+    }
+  },
+  {
+    "id": 2,
+    "date": "2022-09-16T01:28:17.971729",
+    "duration": 60,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "treatment": {
+      "id": 2,
+      "name": "Corte de pelo mujer",
+      "price": 300.0,
+      "estimatedDuration": 70
+    },
+    "employee": {
+      "id": 1,
+      "firstName": "Antonio",
+      "lastName": "Romano",
+      "birthDate": null,
+      "email": "antorom@mail.com",
+      "nss": "12345",
+      "rfc": "ROGA890327HK3"
+    }
+  }
+]
